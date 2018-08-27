@@ -26,9 +26,15 @@ All of the following have a default value if not passed as
 arguments:
 
 -x, --brick\_x   the width of each brick
+
 -y, --brick\_y   the height of each brick
+
 -r, --rows       how many rows of bricks to make
+
 -c, --cols       how many bricks per row
+
 -m, --mortar     the size of the mortar between bricks
+
 -l, --max\_lumin set the max luminosity of colors to be used to generate bricks: for filtering out white colors (like mortar)
+
 -f  --fname      the name of the file to sample colors from; in.jpg by default. You should probably specify this.
